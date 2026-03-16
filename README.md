@@ -2,7 +2,7 @@
 
 # 🍔 Swiggy Sales & Delivery Dashboard (Power BI)
 
-## 📊 Project Overview
+##  Project Overview
 
 This project presents an interactive **Food Delivery Analytics Dashboard** built using Power BI.
 The dashboard analyzes sales performance, customer activity, restaurant participation, and delivery efficiency across multiple cities.
@@ -22,7 +22,7 @@ The project is inspired by the food delivery platform **Swiggy** and aims to dem
 
 ---
 
-## ⭐ Features & Highlights
+##  Features & Highlights
 
 ### 1️ Business Problem
 
