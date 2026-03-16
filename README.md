@@ -127,7 +127,8 @@ The dashboard analyzes data from the following cities:
 
 ##  Dashboard Preview
 
-![Dashboard Preview](swiggy-food-delivery-dashboard.png)
+https://github.com/SAM86030/Food-delivery-dashboard-powerbi/blob/main/Dashboard%20Screenshot1.png
+
 
 ---
 
